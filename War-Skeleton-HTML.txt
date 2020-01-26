@@ -1,11 +1,11 @@
 <head>
     <link rel="stylesheet" href="war.css">
-    <title>War!</title>
+    <title>Card Flipping</title>
 </head>
 
 <body>
     <header>
-        <h1>War!</h1>
+        <h1>Card Flipping</h1>
     </header>
     <div id="table">
         <div class="cards">
